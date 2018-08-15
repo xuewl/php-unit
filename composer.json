@@ -1,7 +1,8 @@
 {
     "name": "xuewl/php-unit",
     "description": "常见PHP工具合集包",
-    "keywords" : ["工具"],
+    "keywords": ["工具"],
+    "license": "MIT",
     "homepage" : "http://www.xuewl.com",
     "authors" : [
         {
@@ -9,7 +10,7 @@
             "email": "master@xuewl.com",
             "homepage": "http://www.xuewl.com",
             "role": "Developer"
-        },
+        }
     ],
     "require": {
         "php": ">=7.0"
