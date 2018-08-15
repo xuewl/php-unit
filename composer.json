@@ -1,4 +1,16 @@
 {
+    "name": "xuewl/php-unit",
+    "description": "常见PHP工具合集包",
+    "keywords" : ["工具"],
+    "homepage" : "http://www.xuewl.com",
+    "authors" : [
+        {
+            "name": "xuewl",
+            "email": "master@xuewl.com",
+            "homepage": "http://www.xuewl.com",
+            "role": "Developer"
+        },
+    ],
     "require": {
         "php": ">=7.0"
     },
